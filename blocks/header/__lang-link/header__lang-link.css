@@ -1,0 +1,10 @@
+.header__lang-link {
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.header__lang-link:hover {
+  text-decoration-line: underline;
+}
