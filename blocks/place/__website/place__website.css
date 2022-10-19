@@ -1,0 +1,7 @@
+.place__website {
+  /* max-width: 456px; */
+  width: calc(50% - 40px);
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
