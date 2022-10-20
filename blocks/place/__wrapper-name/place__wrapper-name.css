@@ -3,3 +3,8 @@
   gap: 40px;
 }
 
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  .place__wrapper-name {
+    gap: 32px;
+  }
+}

@@ -1,6 +1,13 @@
 .place__wrapper-paragraphs {
-  max-width: calc(50% - 40px);
+  max-width: calc(100% - 500px);
   display: flex;
   flex-direction: column;
   gap: 26px;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  .place__wrapper-paragraphs {
+    max-width: calc(100% - 472px);
+    gap: 27px;
+  }
 }
