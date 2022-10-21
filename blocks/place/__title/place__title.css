@@ -1,6 +1,4 @@
 .place__title {
-  /* max-width: calc(50% - 40px); */
-  max-width: 460px;
   width: 100%;
   margin-top: 0;
   margin-bottom: 0;
@@ -9,11 +7,5 @@
   line-height: 1.06;
   /* or 106% */
   color: #FFFFFF;
-  /* flex-basis: 460px; */
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
-  .place__title {
-    max-width: 440px;
-  }
-}

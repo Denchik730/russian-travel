@@ -1,15 +1,7 @@
 .place__website {
-  /* max-width: calc(50% - 40px); */
-  max-width: (100% - 500px);
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: end;
   gap: 12px;
-}
-
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
-  .place__website {
-    max-width: calc(100% - 472px);
-
-  }
 }
