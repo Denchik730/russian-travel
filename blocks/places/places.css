@@ -4,3 +4,24 @@
   flex-direction: column;
   gap: 80px;
 }
+
+
+@media screen and (max-width: 1124px) {
+  .places {
+    padding: 0 48px 0 48px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .places {
+    padding: 0 24px 0 24px;
+  }
+}
+
+
+
+@media screen and (max-width: 710px) {
+  .places {
+    padding: 0 16px 0 16px;
+  }
+}
