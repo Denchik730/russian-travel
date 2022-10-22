@@ -5,4 +5,11 @@
   /* identical to box height, or 122% */
   text-decoration-line: underline;
   color: #FFFFFF;
+  transition: opacity 0.5s;
+  justify-self: start;
+
+}
+
+.place__link:hover {
+  opacity: .6;
 }
