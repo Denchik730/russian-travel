@@ -1,9 +1,9 @@
-.photo {
+.page__photo {
   padding: 0 48px 0 48px;
 }
 
 @media screen and (max-width: 1124px) {
-  .photo {
+  .page__photo {
     padding: 0 24px 0 24px;
   }
 }

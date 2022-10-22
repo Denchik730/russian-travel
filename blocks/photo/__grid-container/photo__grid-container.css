@@ -16,3 +16,9 @@
     gap: 16px;
   }
 }
+
+@media screen and (max-width: 568px) {
+  .photo__grid-container {
+    gap: 12px;
+  }
+}
