@@ -1,29 +1,10 @@
 .cover {
   position: relative;
-  min-height: 740px;
   background-image: url(../../images/cover-trains.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-}
-
-
-@media screen and (max-width: 1124px) {
-  .cover {
-    min-height: 640px;
-  }
-}
-
-@media screen and (max-width: 984px) {
-  .cover {
-    min-height: 480px;
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .cover {
-    min-height: 200px;
-  }
+  cursor: pointer;
 }
 
 .cover::before {
@@ -37,6 +18,7 @@
   height: 100%;
   z-index: 1;
   transition: opacity 0.5s;
+
 }
 
 .cover:hover::before {

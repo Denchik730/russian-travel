@@ -1,4 +1,5 @@
 .place__website {
+  box-sizing: border-box;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -6,3 +7,10 @@
   gap: 12px;
   align-items: start;
 }
+
+@media screen and (max-width: 425px) {
+  .place__website {
+    padding: 0 16px 0 16px;
+  }
+}
+
