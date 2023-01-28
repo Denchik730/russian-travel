@@ -1,5 +1,7 @@
 # Проект: Путешествия по России ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ------
+## Превью:
+![russian-travel](https://user-images.githubusercontent.com/102176847/215269750-991f171d-a763-4110-a676-5980cf3f81f7.gif)
 ## Описание: данный проект решает такие проблемы современности как:
 * Популизации патриотизма
 * Рассмотрение России как страны для туризма и отдыха
@@ -19,8 +21,6 @@
 * Файловая структура проекта по правилам Nested БЭМ
 * Сглаживание шрифтов
 * Оптимизация изображений
-## Превью:
-![russian-travel](https://user-images.githubusercontent.com/102176847/215269750-991f171d-a763-4110-a676-5980cf3f81f7.gif)
 ## Инструкция  по использованию:
 ### Первый способ:
 1. Загрузить архив репозитория или сделать это с помощью `git clone https://github.com/Denchik730/russian-travel.git`
