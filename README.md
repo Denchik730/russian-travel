@@ -27,6 +27,10 @@
 2. Открыть проект через удаленный сервер или файл index.html напрямую
 ### Второй способ:
 1. Сайт размещен на хостинге GitHub Pages. Перейдите по ссылке https://denchik730.github.io/russian-travel/
+## Макет в Figma:
+* [Проектная работа №3 (макет)](https://www.figma.com/file/gOoiOKtuvBZx6HxfC62vXk/Sprint-3_-Russia-_-desktop-%2B-mobile-(Copy)?node-id=28503%3A0&mode=dev)
+## Чеклист:
+* [Проектная работа №3 (чеклист)](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf) 
 ## Планы доработки:
 * Проверить код на кроссбраузерность и дописать все вендорные префиксы;
 * Задизайнить форму, через которую пользователи смогут отправить вам комментарий.
